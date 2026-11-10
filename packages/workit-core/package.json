@@ -9,12 +9,12 @@
   "typings": "lib/index.d.ts",
   "dependencies": {
     "@opentelemetry/api": "0.4.0",
-    "@opentelemetry/core": "0.4.0",
-    "debug": "~4.1.1",
+    "@opentelemetry/core": "2.8.0",
+    "debug": "~4.4.3",
     "fast-safe-stringify": "~2.0.7",
     "inversify": "~5.0.1",
     "reflect-metadata": "~0.1.13",
-    "uuid": "^8.3.1",
+    "uuid": "^14.0.3",
     "workit-types": "^4.2.3-alpha.0"
   },
   "devDependencies": {
